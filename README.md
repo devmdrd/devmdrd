@@ -1,6 +1,6 @@
 <!-- Starry Background GIF -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/01/25/06/52/06-52-32-837_512.gif" alt="Starry Background" width="100%" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" alt="Coding Background" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
