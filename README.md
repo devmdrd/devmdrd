@@ -9,21 +9,18 @@
 
 <!-- Typing Effect -->
 <h3 align="center">
-  
-  <a href="https://git.io/typing-svg">
-    I'm&nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=false&vCenter=true&width=280&lines=a+Full-Stack+Developer;a+Software+Engineer;a+JavaScript+Enthusiast;a+Curious+Problem+Solver" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=440&lines=I'm+a+Full-Stack+Developer;I'm+a+Software+Engineer;I'm+a+JavaScript+Enthusiast;I'm+a+Curious+Problem+Solver" alt="Typing SVG" />
 </h3>
 
 ---
 
 ## 🔍 About Me
-- 🔭 I’m currently working on enhancing my **web development** skills and diving into **machine learning**
-- 👯 I’m looking to collaborate on **innovative projects** that make a **social impact**
-- 🤝 I’m open to mentorship or teaming up to tackle **advanced AI & ML concepts**
-- 🌱 Currently sharpening my expertise in **modern JavaScript frontend & backend frameworks**
+- 🔭 Currently enhancing my **web development** skills and diving into **machine learning**
+- 👯 Looking to collaborate on **innovative projects** with a **social impact**
+- 🤝 Open to mentorship or teaming up on **advanced AI & ML concepts**
+- 🌱 Sharpening expertise in **modern JavaScript frontend & backend frameworks**
 - 💬 Ask me about my **self-taught journey** and **real-world project experience**
-- ⚡ Fun Fact: I’ve built multiple **high-end applications** through sheer curiosity and self-learning!
+- ⚡ Fun Fact: Built several **high-end applications** fueled by curiosity and self-learning!
 
 ---
 
@@ -40,7 +37,7 @@
 ### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -73,18 +70,10 @@
 ---
 
 ## 🤝 Let’s Connect
+
 [![LinkedIn](https://img.shields.io/badge/Muhammed%20Rashid-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 📫 **Reach me at**: mdrd.muhammedrashid@gmail.com
 
 ---
 
 > _"Self-learning is the ultimate superpower – keep exploring, keep coding!"_ 🚀
-
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedrashid&show_icons=true&theme=tokyonight" alt="Rashid's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedrashid&theme=tokyonight" alt="GitHub Streak" />
-</p>
