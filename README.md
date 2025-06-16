@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
-
-<!-- Portfolio Preview -->
-<p align="center">
-  <a href="https://devmdrd.github.io/portfolio" target="_blank">
-    <img src="https://raw.githubusercontent.com/devmdrd/portfolio/main/preview.gif" alt="Portfolio Preview" />
-  </a>
-</p>
-
 <!-- Typing Effect -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=440&lines=I'm+a+Full-Stack+Developer;I'm+a+Software+Engineer;I'm+a+JavaScript+Enthusiast;I'm+a+Curious+Problem+Solver" alt="Typing SVG" />
