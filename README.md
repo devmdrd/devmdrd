@@ -1,15 +1,22 @@
+<!-- Starry Background GIF -->
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" alt="Starry Background" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
 
+<!-- Portfolio Preview -->
 <p align="center">
   <a href="https://devmdrd.github.io/portfolio" target="_blank">
     <img src="https://raw.githubusercontent.com/devmdrd/portfolio/main/preview.gif" alt="Portfolio Preview" />
   </a>
 </p>
 
+<!-- Typing Effect -->
 <h3 align="center">
   I'm&nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=false&vCenter=true&width=280&lines=a+Full-Stack+Developer;a+JavaScript+Enthusiast;a+Curious+Problem+Solver;a+Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=false&vCenter=true&width=280&lines=a+Full-Stack+Developer;a+Software+Engineer;a+JavaScript+Enthusiast;a+Curious+Problem+Solver" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -80,6 +87,7 @@
 
 ---
 
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammedrashid&show_icons=true&theme=tokyonight" alt="Rashid's GitHub stats" />
   <br/>
