@@ -1,77 +1,78 @@
-<h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | JavaScript Enthusiast | Lifelong Learner</h3>
-
----
-
-## 🔍 About Me
-- 🔭 I’m currently working on enhancing my **web development** skills and diving into **machine learning**
-- 👯 I’m looking to collaborate on **innovative projects** that make a **social impact**
-- 🤝 I’m open to mentorship or teaming up to tackle **advanced AI & ML concepts**
-- 🌱 Currently sharpening my expertise in **modern JavaScript frontend & backend frameworks**
-- 💬 Ask me about my **self-taught journey** and **real-world project experience**
-- ⚡ Fun Fact: I’ve built multiple **high-end applications** through sheer curiosity and self-learning!
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-
-### 🎨 UI & Styling
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-
-### 🧰 Tools & Platforms
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
-
----
-
-## 🧠 Currently Learning
-- 🔹 Deepening understanding of **AI/ML Algorithms**
-- 🔹 Mastering **Serverless Architectures & Cloud Deployments**
-- 🔹 Contributing to **open-source** and community projects
-
----
-
-## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/Muhammed%20Rashid-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-📫 **Reach me at**: mdrd.muhammedrashid@gmail.com
-
----
-
-> _"Self-learning is the ultimate superpower – keep exploring, keep coding!"_ 🚀
-
----
+<h1 align="center">👋 Hello World! I'm Muhammed Rashid</h1>
+<h3 align="center">🚀 Full-Stack Developer | JavaScript Architect | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedrashid&show_icons=true&theme=tokyonight" alt="Rashid's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedrashid&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+digital+reality;Clean+code+enthusiast;Always+learning+something+new" alt="Typing SVG" /></a>
 </p>
 
 ---
+
+## 🌟 About Me
+
+```javascript
+const muhammedRashid = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "Python", "C++"],
+  askMeAbout: ["web dev", "tech startups", "AI/ML"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Angular"],
+      css: ["Tailwind", "SASS", "Bootstrap"]
+    },
+    backEnd: {
+      js: ["Node", "Express", "NestJS"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL"]
+    },
+    devOps: ["AWS", "Docker", "Kubernetes", "CI/CD"],
+    misc: ["Firebase", "GraphQL", "Socket.IO"]
+  },
+  architecture: ["Microservices", "Serverless", "SPA", "PWA"],
+  currentFocus: "Building scalable web applications with AI integrations",
+  funFact: "Built my first website at 14 with Notepad and a dream!"
+};
+🛠️ Tech Stack
+🔧 Core Technologies
+https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+
+🎨 Frontend
+https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
+https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+
+⚙️ Backend
+https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
+
+🗃️ Databases
+https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+
+🚀 DevOps & Cloud
+https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedrashid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedrashid&layout=compact&langs_count=8&theme=radical"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedrashid&theme=radical" alt="GitHub Streak" /> </div>
+🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=muhammedrashid&theme=onedark&no-frame=true&row=1&column=7
+
+🎯 Currently Focusing On
+🔭 Building AI-powered web applications
+
+🌱 Learning advanced Kubernetes patterns
+
+👯 Contributing to open-source projects
+
+🤔 Exploring Web3 and Blockchain technologies
+
+📫 Let's Connect
+<p align="center"> <a href="https://linkedin.com/in/your-profile" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:mdrd.muhammedrashid@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://twitter.com/your-handle" target="_blank"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a> <a href="https://dev.to/your-profile" target="_blank"> <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammedrashid&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedrashid" /> </p><p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/> </p><p align="center"> <img src="https://github.com/muhammedrashid/muhammedrashid/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/> </p> ```
