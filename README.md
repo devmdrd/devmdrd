@@ -1,6 +1,6 @@
 <!-- Starry Background GIF -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Starry Background" width="100%" />
+  <img src="[https://i.gifer.com/7VE.gif](https://www.shutterstock.com/video/clip-1101387429-animated-sparkle-overlay---twinkling-stars-seamless)" alt="Starry Background" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
