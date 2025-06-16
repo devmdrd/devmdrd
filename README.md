@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | JavaScript Enthusiast | Lifelong Learner</h3>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Turning+ideas+into+digital+reality;Clean+code+enthusiast;Always+learning+something+new" alt="Typing SVG" /></a>
-</p>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=I'm+a+Full-Stack+Developer;Software+Engineer+%7C+Tech+Explorer;JavaScript+Enthusiast+%7C+AI+Learner;Turning+Ideas+into+Digital+Reality;Clean+Code+Advocate+%7C+Lifelong+Learner" alt="Typing SVG" />
+  </a>
+</h3>
 
 ---
 
@@ -76,6 +77,3 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedrashid&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-enhance this
