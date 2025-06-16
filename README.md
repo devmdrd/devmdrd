@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
 <h3 align="center">
+  I'm&nbsp;
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=I'm+a+Full-Stack+Developer;Software+Engineer+%7C+Tech+Explorer;JavaScript+Enthusiast+%7C+AI+Learner;Turning+Ideas+into+Digital+Reality;Clean+Code+Advocate+%7C+Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=false&vCenter=true&width=280&lines=a+Full-Stack+Developer;a+JavaScript+Enthusiast;a+Curious+Problem+Solver;a+Lifelong+Learner" alt="Typing SVG" />
   </a>
 </h3>
-
 ---
 
 ## 🔍 About Me
