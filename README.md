@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devmdrd.github.io" target="_blank">
+  <a href="https://devmdrd.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox-browser" alt="Portfolio Badge"/>
   </a>
   <a href="https://linkedin.com/in/devmdrd" target="_blank">
@@ -16,9 +16,6 @@
   </a>
   <a href="mailto:mdrd.muhammedrashid@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail" alt="Gmail Badge"/>
-  </a>
-  <a href="tel:+918590687395">
-    <img src="https://img.shields.io/badge/Phone-%2B91%2085906%2087395-lightgrey?style=flat-square&logo=whatsapp" alt="Phone Badge"/>
   </a>
 </p>
 
@@ -53,6 +50,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
 
 ---
 
@@ -75,9 +73,12 @@
 
 ## 🤝 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/Muhammed%20Rashid-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devmdrd)  
-📫 **Email**: [mdrd.muhammedrashid@gmail.com](mailto:mdrd.muhammedrashid@gmail.com)  
-📱 **Phone**: [+91 85906 87395](tel:+918590687395)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox-browser)](https://devmdrd.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devmdrd-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/devmdrd)
+[![GitHub](https://img.shields.io/badge/GitHub-devmdrd-black?style=flat-square&logo=github)](https://github.com/devmdrd)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:mdrd.muhammedrashid@gmail.com)
+
+📫 **Email**: [mdrd.muhammedrashid@gmail.com](mailto:mdrd.muhammedrashid@gmail.com)
 
 ---
 
