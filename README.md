@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
 <!-- Typing Effect -->
 <div align="center">
-  <span style="font-size: 1.17em; font-family: Fira Code, monospace;">I am&nbsp;</span>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=a+Full-Stack+Developer;a+Software+Engineer;a+JavaScript+Enthusiast;a+Curious+Problem+Solver" alt="Typing SVG" />
+  <span style="display: inline-flex; align-items: center; font-family: 'Fira Code', monospace; font-size: 20px;">
+    I am&nbsp;
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=a+Full-Stack+Developer;a+Software+Engineer;a+JavaScript+Enthusiast;a+Curious+Problem+Solver" alt="Typing SVG" />
+  </span>
 </div>
+
 ---
 
 ## 🔍 About Me
