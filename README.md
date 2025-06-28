@@ -1,97 +1,84 @@
-<h1 align="center">
-  <a href="https://devmdrd.github.io/portfolio" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Muhammed+Rashid" alt="Greeting" />
-  </a>
-</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Full-Stack+Developer;Software+Engineer;JavaScript+Enthusiast;Curious+Problem+Solver" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
 
 <p align="center">
-  <a href="mailto:mdrd.muhammedrashid@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/devmdrd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/devmdrd" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://leetcode.com/devmdrd" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://devmdrd.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=web&logoColor=white" alt="Portfolio" /></a>
+  🚀 Junior Software Engineer &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 🔍 Lifelong Tech Explorer
+</p>
+
+<p align="center">
+  <a href="https://devmdrd.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox-browser" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/devmdrd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-devmdrd-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/devmdrd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-devmdrd-black?style=flat-square&logo=github" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:mdrd.muhammedrashid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail" alt="Gmail Badge"/>
+  </a>
+  <a href="tel:+918590687395">
+    <img src="https://img.shields.io/badge/Phone-%2B91%2085906%2087395-lightgrey?style=flat-square&logo=whatsapp" alt="Phone Badge"/>
+  </a>
 </p>
 
 ---
 
-## 🔍 About Me
+## 👨‍💻 About Me
 
-- 💻 Self-taught **Full-Stack Developer** passionate about clean, scalable, and cloud-native solutions  
-- 🤖 Deeply interested in **Machine Learning**, **AI**, and **Serverless Architectures**  
-- 🚀 Focused on building **impactful, user-centric applications** solving real-world problems  
-- 🤝 Open to **collaborations**, **mentorships**, and **open-source contributions**  
-- 💬 Enjoy sharing insights from my journey and hands-on experience  
-- ⚡ *Fun Fact:* I love transforming abstract ideas into polished, real-world applications  
+- 🔭 Currently enhancing my expertise in **modern web development** and exploring the world of **machine learning**
+- 👯 Passionate about collaborating on **real-world, high-impact projects**
+- 🤝 Open to **mentorship, community building**, and **AI/ML teaming**
+- 🌱 Learning and building with **cutting-edge JavaScript frameworks** on both frontend and backend
+- 💬 Let’s chat about my **self-taught journey**, problem-solving mindset, or project experience
+- ⚡ Fun Fact: I’ve built multiple **production-ready apps** driven purely by passion and curiosity!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+### 💻 Frontend  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 
-### 🧱 Backend & DevOps  
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=flat&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+### 🗄️ Backend & Databases  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
-### 🗃️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-
-### 🎨 UI & Styling  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-### 🧰 Tools & Utilities  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+### ⚙️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
 
 ---
 
-## 🧠 Currently Exploring
+## 📚 Currently Exploring
 
-- 🤖 **AI & Machine Learning** – model training, algorithm optimization, real-world deployment  
-- ☁️ **Serverless & Cloud** – AWS Lambda, DynamoDB, API Gateway, Step Functions  
-- 🔓 **Open Source** – actively contributing, collaborating, and learning from public codebases  
+- 🔹 Advanced **AI/ML algorithms**, model training & optimization  
+- 🔹 **Serverless** and **cloud-native architectures**  
+- 🔹 Contributing to **open-source** and building for **community-driven impact**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmdrd&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmdrd&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdrd&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devmdrd&show_icons=true&theme=radical&hide_title=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmdrd&theme=radical" height="180"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect!
 
-- 🌐 [Portfolio](https://devmdrd.github.io/portfolio)  
-- 💼 [LinkedIn](https://linkedin.com/in/devmdrd)  
-- 🐦 [Twitter](https://twitter.com/devmdrd)  
-- 💻 [LeetCode](https://leetcode.com/devmdrd)  
-- 📧 [Email Me](mailto:mdrd.muhammedrashid@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/Muhammed%20Rashid-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devmdrd)  
+📫 **Email**: [mdrd.muhammedrashid@gmail.com](mailto:mdrd.muhammedrashid@gmail.com)  
+📱 **Phone**: [+91 85906 87395](tel:+918590687395)
 
 ---
 
-> _"Self-learning is the ultimate superpower — keep exploring, keep coding."_ 🚀
+> _"Self-learning is the ultimate superpower – keep exploring, keep building."_ 🚀
