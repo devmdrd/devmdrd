@@ -1,94 +1,84 @@
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 Junior Software Engineer | 🌐 Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I+%F0%9F%92%BB+Code+Clean+UIs;I+%F0%9F%9A%80+Build+Full+Stack+Apps;I+%F0%9F%93%96+Love+Open+Source;Always+learning...+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 💼 Junior Software Engineer with a passion for web technologies
-- 🚀 Currently diving deep into **Next.js**, **DevOps**, and **System Design**
-- 🌍 Interested in cloud-native, open-source, and scalable systems
-- 🧠 Always learning, always building
-- 📬 Contact me at: [rashid.engineerdev@gmail.com](mailto:rashid.engineerdev@gmail.com)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,docker,git,github,postman,vscode" />
-</p>
-
----
-
-### 🏆 GitHub Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devmdrd&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 📈 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmdrd&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdrd&theme=tokyonight&hide_border=true" width="47%" />
+  🚀 Junior Software Engineer &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 🔍 Lifelong Tech Explorer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdrd&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
-
-### 🌐 Contribution Calendar (3D)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmdrd&theme=react-dark&area=true&hide_border=true)](https://github.com/devmdrd)
-
----
-
-### 📁 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🔗 Portfolio Website](https://github.com/devmdrd/portfolio) | My personal portfolio site built with React and TailwindCSS |
-| [🔗 Blog Platform](https://github.com/devmdrd/blog-app) | A full-stack blog platform using MERN stack |
-| [🔗 Weather Dashboard](https://github.com/devmdrd/weather-dashboard) | Real-time weather updates using OpenWeatherMap API |
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/devmdrd/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://devmdrd.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox-browser" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:rashid.engineerdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/devmdrd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-devmdrd-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/devmdrd">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  <a href="https://github.com/devmdrd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-devmdrd-black?style=flat-square&logo=github" alt="GitHub Badge"/>
   </a>
-  <a href="https://dev.to/devmdrd">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" />
+  <a href="mailto:mdrd.muhammedrashid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail" alt="Gmail Badge"/>
   </a>
 </p>
 
 ---
 
-### 🧠 Quote of the Day
+## 👨‍💻 About Me
 
-> “Code is like humor. When you have to explain it, it’s bad.”
+- 🔭 Currently enhancing my expertise in **modern web development** and exploring the world of **machine learning**
+- 👯 Passionate about collaborating on **real-world, high-impact projects**
+- 🤝 Open to **mentorship, community building**, and **AI/ML teaming**
+- 🌱 Learning and building with **cutting-edge JavaScript frameworks** on both frontend and backend
+- 💬 Let’s chat about my **self-taught journey**, problem-solving mindset, or project experience
+- ⚡ Fun Fact: I’ve built multiple **production-ready apps** driven purely by passion and curiosity!
 
 ---
 
-### 👁️ Visitor Counter
+## 🛠️ Tech Stack
+
+### 💻 Frontend  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+
+### 🗄️ Backend & Databases  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+
+### ⚙️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+
+---
+
+## 📚 Currently Exploring
+
+- 🔹 Advanced **AI/ML algorithms**, model training & optimization  
+- 🔹 **Serverless** and **cloud-native architectures**  
+- 🔹 Contributing to **open-source** and building for **community-driven impact**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devmdrd&style=flat-square&color=blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devmdrd&show_icons=true&theme=radical&hide_title=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmdrd&theme=radical" height="180"/>
 </p>
+
+---
+
+## 🤝 Let’s Connect!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox-browser)](https://devmdrd.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devmdrd-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/devmdrd)
+[![GitHub](https://img.shields.io/badge/GitHub-devmdrd-black?style=flat-square&logo=github)](https://github.com/devmdrd)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:mdrd.muhammedrashid@gmail.com)
+
+📫 **Email**: [mdrd.muhammedrashid@gmail.com](mailto:mdrd.muhammedrashid@gmail.com)
+
+---
+
+> _"Self-learning is the ultimate superpower – keep exploring, keep building."_ 🚀
