@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Rashid456</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
 
 <p align="center">
   🚀 Junior Software Engineer &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 🔍 Lifelong Tech Explorer
