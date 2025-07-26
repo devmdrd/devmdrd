@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 ###
 
@@ -21,25 +21,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://discordapp.com/users/your-discord-id" target="_blank">
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://twitch.tv/your-twitch" target="_blank">
+  <a href="https://twitch.tv/YOUR_TWITCH" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
   </a>
-  <a href="https://dev.to/your-devto" target="_blank">
+  <a href="https://dev.to/YOUR_DEVTO" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
   </a>
 </div>
@@ -53,8 +53,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmdrd/devmdrd/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmdrd/devmdrd/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devmdrd/devmdrd/output/pacman-contribution-graph.svg" />
-</picture>
+### 🕹️ Pacman Contribution Graph
+
+> Manually view:
+> - 🌞 [Light Mode](https://raw.githubusercontent.com/devmdrd/devmdrd/output/pacman-contribution-graph.svg)
+> - 🌙 [Dark Mode](https://raw.githubusercontent.com/devmdrd/devmdrd/output/pacman-contribution-graph-dark.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devmdrd/devmdrd/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+</p>
