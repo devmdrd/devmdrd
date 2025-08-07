@@ -71,7 +71,7 @@
   <a href="https://linkedin.com/in/devmdrd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://devmdrd.github.io" target="_blank">
+  <a href="https://devmdrd.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
