@@ -66,37 +66,7 @@
 ### 🐍 Snake Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devmdrd/devmdrd/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
----
-
-### 📅 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/devmdrd.svg" alt="Contribution Graph"/>
-</p>
-
----
-
-### 📈 WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-### 📰 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🌌 GitHub Skyline
-
-<p align="center">
-  <img src="https://skyline.github.com/devmdrd/2024" alt="GitHub Skyline" width="400" />
+  <img src="https://raw.githubusercontent.com/devmdrd/devmdrd/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
