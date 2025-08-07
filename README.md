@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Muhammed Rashid</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Full-stack+MERN+%26+MEAN+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Full-stack+MERN+%26+MEAN+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -46,17 +46,10 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdrd&theme=radical&hide_border=true" alt="Streak Stats"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=devmdrd&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  </div>
-</div>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdrd&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devmdrd&theme=radical&hide_border=true" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devmdrd&show_icons=true&theme=radical&hide_border=true" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdrd&layout=compact&theme=radical&hide_border=true" width="330"/>
 </p>
 
 ---
