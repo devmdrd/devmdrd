@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
-<h3 align="center">A passionate Junior Software Engineer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devmdrd&label=Profile%20views&color=0e75b6&style=flat" alt="devmdrd" />
@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **AWS, Docker, and CI/CD**
 - 🔭 I’m working on personal full-stack projects and open-source contributions
 - 💬 Ask me about **JavaScript, Python, or React**
-- 📫 How to reach me: **muhammedrashid.dev@gmail.com**
+- 📫 How to reach me: **mdrd.muhammedrashid@gmail.com**
 - ⚡ Fun fact: I love building UI components and automating boring stuff!
 
 ---
@@ -66,13 +66,13 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/muhammedrashid" target="blank">
+  <a href="https://linkedin.com/in/devmdrd" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:muhammedrashid.dev@gmail.com">
+  <a href="mailto:mdrd.muhammedrashid@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://muhammedrashid.dev" target="blank">
+  <a href="https://devmdrd.github.io" target="blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
