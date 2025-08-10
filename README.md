@@ -4,7 +4,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devmdrd&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/devmdrd?tab=followers">
     <img src="https://img.shields.io/github/followers/devmdrd?label=Followers&style=social" alt="GitHub Followers" />
   </a>
