@@ -44,6 +44,26 @@
 
 ---
 
+## 🚀 Projects
+
+<p align="center">
+
+  <a href="https://github.com/devmdrd/ecart" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/devmdrd/ecart" alt="Ecart" width="300" style="border-radius: 10px; margin: 10px;" />
+  </a>
+
+  <a href="https://github.com/devmdrd/TalentTrove" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/devmdrd/TalentTrove" alt="TalentTrove" width="300" style="border-radius: 10px; margin: 10px;" />
+  </a>
+
+  <a href="https://github.com/devmdrd/axios-react-hook" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/devmdrd/axios-react-hook" alt="Axios React Hook" width="300" style="border-radius: 10px; margin: 10px;" />
+  </a>
+
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
