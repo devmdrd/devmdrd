@@ -46,19 +46,32 @@
 
 ## 🚀 Projects
 
-<p align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
   <a href="https://github.com/devmdrd/ecart" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/devmdrd/ecart?refresh=1" alt="Ecart" width="300" style="border-radius: 10px; margin: 10px;" />
+    <img src="https://opengraph.githubassets.com/1/devmdrd/ecart?refresh=1" alt="Ecart" width="300" />
   </a>
+</td>
 
+<td align="center" width="33%">
   <a href="https://github.com/devmdrd/TalentTrove" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/devmdrd/TalentTrove?refresh=1" alt="TalentTrove" width="300" style="border-radius: 10px; margin: 10px;" />
+    <img src="https://opengraph.githubassets.com/1/devmdrd/TalentTrove?refresh=1" alt="TalentTrove" width="300" />
   </a>
+</td>
 
-  <a href="https://github.com/devmdrd/axios-react-hook" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/devmdrd/axios-react-hook?refresh=1" alt="Axios React Hook" width="300" style="border-radius: 10px; margin: 10px;" />
+<td align="center" width="33%">
+  <a href="https://www.npmjs.com/package/axios-react-hook" target="_blank">
+    <img src="https://nodei.co/npm/axios-react-hook.png" alt="axios-react-hook npm" width="300" />
   </a>
-</p>
+  <br/>
+  <img src="https://img.shields.io/npm/v/axios-react-hook?style=flat-square&color=cb3837&logo=npm" alt="npm version" />
+  <img src="https://img.shields.io/npm/dm/axios-react-hook?style=flat-square&color=blue" alt="npm downloads" />
+</td>
+
+</tr>
+</table>
 
 ---
 
