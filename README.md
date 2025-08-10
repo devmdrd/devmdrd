@@ -97,14 +97,23 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:mdrd.muhammedrashid@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/devmdrd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://devmdrd.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<table align="center" cellspacing="15">
+  <tr>
+    <td>
+      <a href="mailto:mdrd.muhammedrashid@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/D14836/gmail-new.png" alt="Gmail" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/devmdrd" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" />
+      </a>
+    </td>
+    <td>
+      <a href="https://devmdrd.github.io/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+
