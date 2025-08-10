@@ -14,8 +14,8 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Full-Stack Web Developer (MERN / MEAN)
-- 🌱 Currently learning **DevOps** (Docker, CI/CD, Kubernetes)
+- 💼 **Full-Stack Web Developer** (MERN / MEAN)
+- 🌱 Currently learning **Advanced JavaScript Patterns**, **System Design**, and **Cloud Architecture**
 - 🧩 Contributor to **Open Source Projects**
 - 💡 Passionate about **Clean Architecture** & **Scalable Code**
 - ⚡ Fun Fact: I automate everything I can 🛠️
