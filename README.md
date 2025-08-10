@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm Muhammed Rashid</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Full-stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00FFAB&center=true&vCenter=true&repeat=false&width=500&lines=I+am+Full-stack+Developer;I+am+Open+Source+Contributor;I+am+Tech+Enthusiast;I+am+Always+Learning+🚀" 
+    alt="Typing SVG" 
+  />
 </div>
 
 <p align="center">
