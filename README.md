@@ -110,7 +110,7 @@
       </a>
     </td>
     <td>
-      <a href="https://muhammedrashid.tech/" target="_blank">
+      <a href="https://devmdrd.github.io/" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" />
       </a>
     </td>
