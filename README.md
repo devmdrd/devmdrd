@@ -1,16 +1,18 @@
-<div align="center">
-  <h1>Hi 👋, I'm Muhammed Rashid</h1>
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00FFAB&center=true&vCenter=true&repeat=false&width=500&lines=I+am+Full-stack+Developer;I+am+Open+Source+Contributor;I+am+Tech+Enthusiast;I+am+Always+Learning+🚀" 
-    alt="Typing SVG" 
-  />
-</div>
-
 <p align="center">
-  <a href="https://github.com/devmdrd?tab=followers">
-    <img src="https://img.shields.io/github/followers/devmdrd?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Muhammed%20Rashid&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner"/>
 </p>
+
+<!-- -->
+
+<div align="center">
+
+# Hey there! 👋 I'm Muhammed Rashid
+
+### 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00FFAB&center=true&vCenter=true&repeat=false&width=500&lines=Building+Scalable+Apps;Contributing+to+Open+Source;Learning+Every+Day)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -116,4 +118,3 @@
     </td>
   </tr>
 </table>
-
